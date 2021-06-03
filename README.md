@@ -5,12 +5,12 @@
 npm install
 ``` 
 
-#### Inciar servidor de desarrollo.
+#### Iniciar servidor de desarrollo.
 ```bash
 npm run dev
 ``` 
 
-#### Inciar servidor de produccción.
+#### Iniciar servidor de produccción.
 ```bash
 npm run start
 ``` 
@@ -40,7 +40,7 @@ npm i express pg dotenv
 
 # Dependencias de Desarrollo
 
-#### Instalación de Nodemon, para que el servidor se reinicie automáticamente cada vez que modifiquemos el código
+##### Instalación de Nodemon, para que el servidor se reinicie automáticamente cada vez que modifiquemos el código
 ```bash
 npm i nodemon -D
 ``` 
